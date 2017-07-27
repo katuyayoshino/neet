@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6a58a36ddc8fdbc4c8a60c8abdd0242f
+timeCreated: 1484887724
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gen Jyuu GothicX
+  fontNames:
+  - Gen Jyuu GothicX
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
