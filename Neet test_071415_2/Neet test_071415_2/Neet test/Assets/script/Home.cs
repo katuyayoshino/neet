@@ -477,6 +477,10 @@ namespace battle
 			SeepPop.SetActive (false);
 			PlayerManager.P_Instance.Playerpara [0].hp += PlayerManager.P_Instance.Playerpara [0].hp / 12;
 		}
+		public void No_Rest_push()
+		{
+			SeepPop.SetActive (false);
+		}
 
     }
 }
